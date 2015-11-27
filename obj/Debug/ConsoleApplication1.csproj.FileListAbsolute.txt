@@ -21,3 +21,5 @@ c:\users\guitared\documents\visual studio 2013\Projects\ConsoleApplication1\Cons
 C:\Users\Guitared\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
 C:\Users\Guitared\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\Guitared\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\User\Source\Repos\AssignHiLowCardGameUML\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\User\Source\Repos\AssignHiLowCardGameUML\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
